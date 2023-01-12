@@ -1,0 +1,15 @@
+C:\Git\.Net_GC_Day2_Lab1\Net_GC_Day2_Lab1_BillyMcCleese\Net_GC_Day2_Lab1\bin\Debug\net6.0\Net_GC_Day2_Lab1.exe
+C:\Git\.Net_GC_Day2_Lab1\Net_GC_Day2_Lab1_BillyMcCleese\Net_GC_Day2_Lab1\bin\Debug\net6.0\Net_GC_Day2_Lab1.deps.json
+C:\Git\.Net_GC_Day2_Lab1\Net_GC_Day2_Lab1_BillyMcCleese\Net_GC_Day2_Lab1\bin\Debug\net6.0\Net_GC_Day2_Lab1.runtimeconfig.json
+C:\Git\.Net_GC_Day2_Lab1\Net_GC_Day2_Lab1_BillyMcCleese\Net_GC_Day2_Lab1\bin\Debug\net6.0\Net_GC_Day2_Lab1.dll
+C:\Git\.Net_GC_Day2_Lab1\Net_GC_Day2_Lab1_BillyMcCleese\Net_GC_Day2_Lab1\bin\Debug\net6.0\Net_GC_Day2_Lab1.pdb
+C:\Git\.Net_GC_Day2_Lab1\Net_GC_Day2_Lab1_BillyMcCleese\Net_GC_Day2_Lab1\obj\Debug\net6.0\Net_GC_Day2_Lab1.csproj.AssemblyReference.cache
+C:\Git\.Net_GC_Day2_Lab1\Net_GC_Day2_Lab1_BillyMcCleese\Net_GC_Day2_Lab1\obj\Debug\net6.0\Net_GC_Day2_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\.Net_GC_Day2_Lab1\Net_GC_Day2_Lab1_BillyMcCleese\Net_GC_Day2_Lab1\obj\Debug\net6.0\Net_GC_Day2_Lab1.AssemblyInfoInputs.cache
+C:\Git\.Net_GC_Day2_Lab1\Net_GC_Day2_Lab1_BillyMcCleese\Net_GC_Day2_Lab1\obj\Debug\net6.0\Net_GC_Day2_Lab1.AssemblyInfo.cs
+C:\Git\.Net_GC_Day2_Lab1\Net_GC_Day2_Lab1_BillyMcCleese\Net_GC_Day2_Lab1\obj\Debug\net6.0\Net_GC_Day2_Lab1.csproj.CoreCompileInputs.cache
+C:\Git\.Net_GC_Day2_Lab1\Net_GC_Day2_Lab1_BillyMcCleese\Net_GC_Day2_Lab1\obj\Debug\net6.0\Net_GC_Day2_Lab1.dll
+C:\Git\.Net_GC_Day2_Lab1\Net_GC_Day2_Lab1_BillyMcCleese\Net_GC_Day2_Lab1\obj\Debug\net6.0\refint\Net_GC_Day2_Lab1.dll
+C:\Git\.Net_GC_Day2_Lab1\Net_GC_Day2_Lab1_BillyMcCleese\Net_GC_Day2_Lab1\obj\Debug\net6.0\Net_GC_Day2_Lab1.pdb
+C:\Git\.Net_GC_Day2_Lab1\Net_GC_Day2_Lab1_BillyMcCleese\Net_GC_Day2_Lab1\obj\Debug\net6.0\Net_GC_Day2_Lab1.genruntimeconfig.cache
+C:\Git\.Net_GC_Day2_Lab1\Net_GC_Day2_Lab1_BillyMcCleese\Net_GC_Day2_Lab1\obj\Debug\net6.0\ref\Net_GC_Day2_Lab1.dll
